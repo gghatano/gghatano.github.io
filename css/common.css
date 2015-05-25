@@ -1,0 +1,77 @@
+body{
+    background-color: #F3F1EC;
+    text-align:center;
+    font-family: 'Ubuntu', sans-serif;
+}
+.ccc{
+    font-family: 'Raleway', sans-serif;
+    color: #EB5591;
+}
+
+div.article{
+    margin: 0 auto;
+    width: 270px;
+}
+
+p.text{
+    text-align: left;
+}
+
+table.tablenavi{
+    border:none;
+    margin-left : auto;
+    margin-right : auto;
+}
+td.links {
+    width: 60px;
+    height: 60px;
+}
+
+a.twitter {
+    color: #827C79;
+}
+a:hover.twitter {
+    color: #55ACEE;
+}
+
+a.blog {
+    color: #827C79;
+}
+a:hover.blog {
+    color: #000000;
+}
+
+a.qiita {
+    color: #827C79;
+}
+a:hover.qiita {
+    color: #ffffff;
+}
+
+.qiitasq{
+    border-radius: 4px;
+    width: 58px;
+    height: 58px;
+}
+.qiitasq:hover{
+    background: #79B74A;
+}
+
+a.github {
+    color: #827C79;
+}
+a:hover.github {
+    color: #000000;
+}
+
+a.slideshare {
+    color: #827C79;
+}
+a:hover.slideshare {
+    color: #0175B1;
+}
+
+a.textlinks {
+    text-decoration: none;
+    color: #000000;
+}
