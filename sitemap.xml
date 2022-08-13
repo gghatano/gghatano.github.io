@@ -29,6 +29,9 @@
     <loc>http://example.org/posts/template/</loc>
     <lastmod>2022-08-13T14:52:03+09:00</lastmod>
   </url><url>
+    <loc>http://example.org/posts/20220811/</loc>
+    <lastmod>2022-08-12T14:52:03+09:00</lastmod>
+  </url><url>
     <loc>http://example.org/categories/</loc>
   </url>
 </urlset>
