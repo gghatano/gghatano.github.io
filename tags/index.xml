@@ -44,33 +44,6 @@
     </item>
     
     <item>
-      <title>test</title>
-      <link>http://example.org/tags/test/</link>
-      <pubDate>Sat, 13 Aug 2022 14:52:03 +0900</pubDate>
-      
-      <guid>http://example.org/tags/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test2</title>
-      <link>http://example.org/tags/test2/</link>
-      <pubDate>Sat, 13 Aug 2022 14:52:03 +0900</pubDate>
-      
-      <guid>http://example.org/tags/test2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test3</title>
-      <link>http://example.org/tags/test3/</link>
-      <pubDate>Sat, 13 Aug 2022 14:52:03 +0900</pubDate>
-      
-      <guid>http://example.org/tags/test3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>travel</title>
       <link>http://example.org/tags/travel/</link>
       <pubDate>Sat, 13 Aug 2022 14:52:03 +0900</pubDate>

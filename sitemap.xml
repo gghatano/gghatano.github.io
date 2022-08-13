@@ -5,25 +5,10 @@
     <loc>http://example.org/</loc>
     <lastmod>2022-08-13T14:52:03+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/cat1/</loc>
-    <lastmod>2022-08-13T14:52:03+09:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/cat2/</loc>
-    <lastmod>2022-08-13T14:52:03+09:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/cat3/</loc>
-    <lastmod>2022-08-13T14:52:03+09:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2022-08-13T14:52:03+09:00</lastmod>
-  </url><url>
     <loc>http://example.org/tags/cooking/</loc>
     <lastmod>2022-08-13T14:52:03+09:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/ekimemo/</loc>
-    <lastmod>2022-08-13T14:52:03+09:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/hello-world/</loc>
     <lastmod>2022-08-13T14:52:03+09:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/imys/</loc>
@@ -38,19 +23,12 @@
     <loc>http://example.org/tags/</loc>
     <lastmod>2022-08-13T14:52:03+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/test/</loc>
-    <lastmod>2022-08-13T14:52:03+09:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/test2/</loc>
-    <lastmod>2022-08-13T14:52:03+09:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/test3/</loc>
-    <lastmod>2022-08-13T14:52:03+09:00</lastmod>
-  </url><url>
     <loc>http://example.org/tags/travel/</loc>
     <lastmod>2022-08-13T14:52:03+09:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/template/</loc>
     <lastmod>2022-08-13T14:52:03+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
   </url>
 </urlset>
