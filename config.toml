@@ -2,3 +2,7 @@ theme = "ananke"
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
