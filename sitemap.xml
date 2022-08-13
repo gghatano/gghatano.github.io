@@ -5,6 +5,9 @@
     <loc>http://example.org/posts/hello-world/</loc>
     <lastmod>2022-08-13T14:52:03+09:00</lastmod>
   </url><url>
+    <loc>http://example.org/test/test/</loc>
+    <lastmod>2022-08-13T14:52:03+09:00</lastmod>
+  </url><url>
     <loc>http://example.org/</loc>
     <lastmod>2022-08-13T14:52:03+09:00</lastmod>
   </url><url>
@@ -12,6 +15,9 @@
     <lastmod>2022-08-13T14:52:03+09:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/test/</loc>
+    <lastmod>2022-08-13T14:52:03+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/test/</loc>
     <lastmod>2022-08-13T14:52:03+09:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
