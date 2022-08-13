@@ -17,30 +17,32 @@
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>http://example.org/test/test/</link>
+      <title>Hello World2</title>
+      <link>http://example.org/posts/hello-world2/</link>
       <pubDate>Sat, 13 Aug 2022 14:52:03 +0900</pubDate>
       
-      <guid>http://example.org/test/test/</guid>
-      <description>test test テスト テスト  テスト  テスト テスト テスト テスト   テスト  テスト    テスト graph TD; A--&amp;gt;B; A--&amp;gt;C; B--&amp;gt;D; C--&amp;gt;D; </description>
+      <guid>http://example.org/posts/hello-world2/</guid>
+      <description>テスト２つめ
+test test テスト テスト  テスト  テスト テスト テスト テスト   テスト  テスト    テスト graph TD; A--&amp;gt;B; A--&amp;gt;C; B--&amp;gt;D; C--&amp;gt;D; </description>
     </item>
     
     <item>
-      <title>test</title>
-      <link>http://example.org/posts/test/</link>
+      <title>Hello World3</title>
+      <link>http://example.org/posts/hello-world3/</link>
       <pubDate>Sat, 13 Aug 2022 14:52:03 +0900</pubDate>
       
-      <guid>http://example.org/posts/test/</guid>
-      <description>test test テスト テスト  テスト  テスト テスト テスト テスト   テスト  テスト    テスト graph TD; A--&amp;gt;B; A--&amp;gt;C; B--&amp;gt;D; C--&amp;gt;D; </description>
+      <guid>http://example.org/posts/hello-world3/</guid>
+      <description>テスト２つめ
+test test テスト テスト  テスト  テスト テスト テスト テスト   テスト  テスト    テスト graph TD; A--&amp;gt;B; A--&amp;gt;C; B--&amp;gt;D; C--&amp;gt;D; </description>
     </item>
     
     <item>
-      <title>たんばらラベンダーパークバスツアー</title>
-      <link>http://example.org/%E3%83%A1%E3%83%A2/20220811_%E3%81%9F%E3%82%93%E3%81%B0%E3%82%89%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E3%83%90%E3%82%B9%E3%83%84%E3%82%A2%E3%83%BC/</link>
+      <title>テンプレート</title>
+      <link>http://example.org/posts/template/</link>
       <pubDate>Sat, 13 Aug 2022 14:52:03 +0900</pubDate>
       
-      <guid>http://example.org/%E3%83%A1%E3%83%A2/20220811_%E3%81%9F%E3%82%93%E3%81%B0%E3%82%89%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E3%83%90%E3%82%B9%E3%83%84%E3%82%A2%E3%83%BC/</guid>
-      <description>概要 感想 その他 </description>
+      <guid>http://example.org/posts/template/</guid>
+      <description>概要  リスト  リスト   リスト  感想  リスト  リスト   リスト  </description>
     </item>
     
   </channel>
